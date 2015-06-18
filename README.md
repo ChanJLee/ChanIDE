@@ -4,4 +4,4 @@
  目前支持java c c++ 的语法高亮
 
 # Demo
-![image](https://github.com/ChanJLee/ChanIDE.git/raw/master/chanEditor/demo.png)
+![image](https://github.com/ChanJLee/ChanIDE/raw/master/chanEditor/demo.png)
